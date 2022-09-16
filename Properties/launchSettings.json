@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PoetryGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Temp\\PoetryRules.txt"
+    }
+  }
+}

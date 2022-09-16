@@ -1,0 +1,17 @@
+C:\Users\svobi\source\repos\PoetryGenerator\obj\Debug\netcoreapp3.1\PoetryGenerator.csproj.AssemblyReference.cache
+C:\Users\svobi\source\repos\PoetryGenerator\obj\Debug\netcoreapp3.1\PoetryGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svobi\source\repos\PoetryGenerator\obj\Debug\netcoreapp3.1\PoetryGenerator.csproj.CoreCompileInputs.cache
+C:\Users\svobi\source\repos\PoetryGenerator\bin\Debug\netcoreapp3.1\PoetryGenerator.exe
+C:\Users\svobi\source\repos\PoetryGenerator\bin\Debug\netcoreapp3.1\PoetryGenerator.deps.json
+C:\Users\svobi\source\repos\PoetryGenerator\bin\Debug\netcoreapp3.1\PoetryGenerator.runtimeconfig.json
+C:\Users\svobi\source\repos\PoetryGenerator\bin\Debug\netcoreapp3.1\PoetryGenerator.runtimeconfig.dev.json
+C:\Users\svobi\source\repos\PoetryGenerator\bin\Debug\netcoreapp3.1\PoetryGenerator.dll
+C:\Users\svobi\source\repos\PoetryGenerator\bin\Debug\netcoreapp3.1\PoetryGenerator.pdb
+C:\Users\svobi\source\repos\PoetryGenerator\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\svobi\source\repos\PoetryGenerator\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\svobi\source\repos\PoetryGenerator\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\svobi\source\repos\PoetryGenerator\obj\Debug\netcoreapp3.1\PoetryGenerator.csproj.CopyComplete
+C:\Users\svobi\source\repos\PoetryGenerator\obj\Debug\netcoreapp3.1\PoetryGenerator.dll
+C:\Users\svobi\source\repos\PoetryGenerator\obj\Debug\netcoreapp3.1\PoetryGenerator.pdb
+C:\Users\svobi\source\repos\PoetryGenerator\obj\Debug\netcoreapp3.1\PoetryGenerator.genruntimeconfig.cache
+C:\Users\svobi\source\repos\PoetryGenerator\bin\Debug\netcoreapp3.1\NLog.config
